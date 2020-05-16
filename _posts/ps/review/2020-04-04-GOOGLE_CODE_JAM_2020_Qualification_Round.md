@@ -32,4 +32,16 @@ categories: [PS]
 
 를 순서대로 출력하기만 하면 끝
 
-소스는 게시해도 되는지 알아보고 게시 할 예정
+~~소스는 게시해도 되는지 알아보고 게시 할 예정~~<br>
+구코잼이 아직 끝나지 않았고 라이선스 관련 확인이 귀찮은 관계로 생략
+
+# 2 - Nesting Depth ([링크](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f))
+
+## 분석과 접근
+
+
+# 3 - Parenting Partnering Returns ([링크](https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9))
+
+## 분석과 접근
+
+이후 문제는 내수준에서 손댈게 아니었다고 생각해서 Cool PASS
